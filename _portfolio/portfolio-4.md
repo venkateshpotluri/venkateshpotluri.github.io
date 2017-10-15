@@ -1,0 +1,16 @@
+---
+title: "Audio Rendering of Mathematical Content"
+excerpt: "Approaches to render mathematical content in audio.<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+Text to speech (TTS) systems hold promise as an information access tool for the visually impaired. Current TTS systems can convert a typical text into a natural sounding speech. However, rendering Mathematical content (equations, bar graphs and pie charts) in audio is not a trivial task. Mathematical equations have to be read so that appropriate bracketing such as parentheses, fractions, superscripts and subscripts are unambiguously conveyed to the listener.
+
+The ambiguity in most cases is caused if the listener is unable to identify the beginning and end of the mentioned demarkations. We proposed 4 techniques that introduce speech cues such as variations in pitch, rate, etc. We introduce non speech cues such as special sounds and 3-dimensional audio. We performed a subjective evaluation on the proposed ideas. Based on the evaluation metrics, we performed a comprehension test on participants both with and without vision impairment. Visually impaired participants were able to solve the problems with 95% accuracy with the proposed technique. The correctness was a meagre 30% with the current state of the art technology (a TTS).
+
+## Highlights:
+
+* paper titled [Significance of paralinguistic Cues in the Synthesis of Mathematical Equations](http://ltrc.iiit.ac.in/icon/2014/proceedings/File36-p150.pdf)
+* thesis: Significance of Cues in Audio Rendering of Mathematical Content
+
+## Project Collaborators
+Saikrishna Rallabandi, Kishore Prahallad and Priyanka Srivastava
