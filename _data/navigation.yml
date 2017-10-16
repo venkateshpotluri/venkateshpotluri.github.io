@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "workshops"
-    url: /workshops/
+  #- title: "workshops"
+    #url: /workshops/
     
   - title: "Portfolio"
     url: /portfolio/
@@ -15,6 +15,6 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+    #url: /cv/
     
