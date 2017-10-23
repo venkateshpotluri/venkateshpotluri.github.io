@@ -11,21 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech (HONS) and MS by Research in Computer Science and Engineering, International Institute of Information Technology Hyderabad. 2010 to 2015
+* Senior Secondary, P. Obul Reddy Public School, 2008 to 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Fellow (advised by Dr. Manohar Swaminathan), Microsoft Research India, July2017 to present.
+* Research Intern, Microsoft Research India, January 2017 to May 2017
   
 Skills
 ======
