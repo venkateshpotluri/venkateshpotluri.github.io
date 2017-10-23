@@ -2,6 +2,11 @@
 title: "CodeTalk"
 excerpt: "VisualStudio plugin to improve code glanceability, navigability and alertability to IDE information."
 collection: projects
+permalink: /projects/codetalk/
+layout: archive
+author_profile: true
+redirect_from:
+  - /codetalk
 ---
 Graphical User Interface (GUI) based Integrated Development Environments (IDEs) provide important information through visual cues. Sighted developers can glance through code, quickly navigate by scroling, pointing and clicking and get realtime information from IDEs through visual cues like syntax coloring, etc. CodeTalk improves code glanceability, navigability and alertability (realtime access to information) through UI enhancements, speech and non-speech cues. CodeTalk also introduces TalkPoints, an audio debugging experience. CodeTalk supports 3 types of TalkPoints:
 
