@@ -2,7 +2,11 @@
 title: "Computer Training in Assistive Technologies"
 collection: workshops
 type: "Workshop"
-permalink: /teaching/2014-computertraining-workshop
+permalink: /workshops/2014-computertraining
+layout: archive
+author_profile: true
+redirect_from:
+  - /jawsworkshop2
 venue: "Frontline Eye Hospital, Chennai"
 date: 2015-01-01
 location: "Chennai, India"

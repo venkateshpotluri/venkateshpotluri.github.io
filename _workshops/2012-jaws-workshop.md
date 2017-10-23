@@ -3,6 +3,10 @@ title: "JAWS and Assistive Technology in Apple Products"
 collection: workshops
 type: "workshop"
 permalink: /workshops/2012-jaws
+layout: archive
+author_profile: true
+redirect_from:
+  - /jawsworkshop1
 venue: "Frontline Eye Hospital, Chennai"
 date: 2014-10-20
 location: "Chennai, India"
