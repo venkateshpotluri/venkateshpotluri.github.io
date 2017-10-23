@@ -1,5 +1,5 @@
 ---
-title: "Visionary Fighter| Venkatesh Potluri &| TEDxYouth@Hyderabad2016"
+title: "Visionary Fighter\| Venkatesh Potluri\| TEDxYouth@Hyderabad2016"
 collection: talks
 type: "Talk"
 permalink: /talks/2016-11-20-tedxyouth-hyd
