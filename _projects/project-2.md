@@ -15,6 +15,3 @@ Graphical User Interface (GUI) based Integrated Development Environments (IDEs) 
 One unique feature to TalkPoints is that the developer can choose to not break when these TalkPoints are hit. The developer can listen to the associated audio cue and continue execution.
 
 *CodeTalk has been awarded second place (developers category) in the Microsoft Hackathon 2017!*
-
-## Project Collaborators
-Suresh Parthasarathy, Gopal Srinivasa, [Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/), [Priyan Vaithilingam](https://priyan.info)

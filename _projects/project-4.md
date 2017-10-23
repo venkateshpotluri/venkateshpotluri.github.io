@@ -11,6 +11,3 @@ The ambiguity in most cases is caused if the listener is unable to identify the 
 
 * paper titled [Significance of paralinguistic Cues in the Synthesis of Mathematical Equations](http://ltrc.iiit.ac.in/icon/2014/proceedings/File36-p150.pdf)
 * thesis: Significance of Cues in Audio Rendering of Mathematical Content
-
-## Project Collaborators
-Saikrishna Rallabandi, Kishore Prahallad and Priyanka Srivastava
