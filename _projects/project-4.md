@@ -1,6 +1,6 @@
 ---
 title: "Audio Rendering of Mathematical Content"
-excerpt: "Approaches to render mathematical content in audio.<br/><img src='/images/500x300.png'>"
+excerpt: "Approaches to render mathematical content in audio."
 collection: portfolio
 ---
 Text to speech (TTS) systems hold promise as an information access tool for the visually impaired. Current TTS systems can convert a typical text into a natural sounding speech. However, rendering Mathematical content (equations, bar graphs and pie charts) in audio is not a trivial task. Mathematical equations have to be read so that appropriate bracketing such as parentheses, fractions, superscripts and subscripts are unambiguously conveyed to the listener.
