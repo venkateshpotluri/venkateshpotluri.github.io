@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Venkatesh Potluri"
-  avatar           : "profile.png"
+  avatar           : "venkatesh_pic.png"
   bio              : "aspiring researcher, drummer"
   location         : "Bangalore, India"
   employer         : "Microsoft Research India"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.in/citations?user=gEQ4InwAAAAJ&hl=en"
   email            : "venkateshpotluri.iiit@gmail.com"
   uri              :
   bitbucket        :
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"https://www.linkedin.com/in/venkateshpotluri"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
