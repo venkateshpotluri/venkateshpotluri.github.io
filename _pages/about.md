@@ -15,3 +15,9 @@ Due to my vision impairment, I adapted various methods for learning and independ
 I realised that a lot of these were lacking in functionality and there was a wide scope and need for improvement. I want to contribute in developing assistive technology by looking at a problem from both the user as well as a researcher and developer perspective. With improved accessibility as a mission, I have directed my efforts in improving access to STEM (math and computer programming) so far through [Audio Rendering of Mathematical Content](/projects/math) and, [CodeTalk](/projects/codetalk) and [SoundScape for Visual Studio](projects/soundscape) projects respectively.
 
 In addition to improving access to technical content and tools, I believe it is equally important to spread awareness on how technology can empower people with visual impairments to achieve their dreams. My efforts in this direction span across designing and organizing [training workshops on assistive technology](workshops/), [invited talks](talks/) and helping other visually impaired students in India through Inclusive STEM, a group to promote STEM education and careers.
+
+## Important Updates
+
+My talk at [TEDxYouth@Hyderabad](https://tedxhyderabad.com/tedxyouthhyderabad-2016/) is live!
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BgMZ6R7RRlI?rel=0" frameborder="0" allowfullscreen></iframe>
