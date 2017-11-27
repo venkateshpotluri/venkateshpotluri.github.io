@@ -30,15 +30,16 @@ Work experience
     The idea was to simplify navigating the complex UI of Microsoft word using voice input. This being my proposal I took a large role in driving it.
   * Accessibility tests for Office apps on Android
     I was responsible for identifying accessibility issues in Office apps on Android. In addition to rooting out issues as per Microsoft's Accessibility Standard (MAS), I was also responsible for identifying usability issues in the apps.
+
 Projects
 ======
-* [Soundscape for Visual Studio](projects/soundscape)
+* [Soundscape for Visual Studio](/projects/soundscape)
   A Spatial Audio UI design to improve developer productivity for visually impaired developers by introducing non-linearity in screen reader information access.
-* [CodeTalk](projects/CodeTalk)
+* [CodeTalk](/projects/CodeTalk)
  A Visual Studio plugin to Improve IDE accessibility to developers with visual impairments through improved code glanceability, navigability and real time access to IDE information.
-* [CloudATM](projects/cloudatm/)
+* [CloudATM](/projects/cloudatm/)
   An ATM infrastructure design proposed to improve accessibility of ATM cash transaction to visually impaired people. The re-design can be built on top of UPI.
-* [Audio Rendering of Mathematical Content](projects/math/)
+* [Audio Rendering of Mathematical Content](/projects/math/)
   Techniques using speech and non-speech audio to render mathematical content in audio.
 * Unified keyboard shortcut standard for screen readers
   Every screen reader has its own style of keyboard shortcuts, makeing it difficult for visually impaired users to switch between different screen readers and platforms. The idea is to explore and propose guidelines for choosing keyboard shortcuts for screen readers and eventually come up with a universal keyboard shortcut mapping.
@@ -64,4 +65,4 @@ Bash
 * Assistive technologies:
 *JAWS*, NVDA, *VoiceOver (Mac and IOS)*, Mobile Speak.
 
-**[Download PDF](files/VenkateshPotluri_cv.pdf)**
+**[Download PDF](/files/VenkateshPotluri_cv.pdf)**
