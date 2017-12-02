@@ -17,9 +17,11 @@ Education
 Work experience
 ======
 * Research Fellow (advised by Dr. Manohar Swaminathan), Microsoft Research India, July2017 to present.
-* Research Intern, Microsoft Research India, January 2017 to May 2017
   * [SoundScape for VisualStudio](projects/soundscape):
     The goal is to explore the design and use of a Spatial Audio UI to improve IDE usability for visually impaired developers.
+  * [CloudATM](/projects/cloudatm)
+    Financial services are not very accessible to people with visual impairments in India. We propose a new ATM software design to improve accessibility of ATM cash withdrawals for people with visual impairments.
+* Research Intern, Microsoft Research India, January 2017 to May 2017
   * [CodeTalk](projects/codetalk):
     A Visual Studio plugin to improve IDE accessibility for developers with visual impairments.
 
@@ -52,7 +54,7 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reverse %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
