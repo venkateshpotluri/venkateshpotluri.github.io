@@ -18,6 +18,7 @@ In addition to improving access to technical content and tools, I believe it is 
 
 ## Important Updates
 
-My talk at [TEDxYouth@Hyderabad](https://tedxhyderabad.com/tedxyouthhyderabad-2016/) is live!
+* **[CodeTalk](/projects/codetalk) is now open source! [Click here](https://github.com/microsoft/codetalk) for more information.**
+* **My talk at [TEDxYouth@Hyderabad](https://tedxhyderabad.com/tedxyouthhyderabad-2016/) is live!**
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BgMZ6R7RRlI?rel=0" frameborder="0" allowfullscreen></iframe>
