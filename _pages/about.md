@@ -18,7 +18,9 @@ In addition to improving access to technical content and tools, I believe it is 
 
 ## Important Updates
 
-* **[CodeTalk](/projects/codetalk) is now open source! [Click here](https://github.com/microsoft/codetalk) for more information.**
+* **[CodeTalk](/projects/codetalk) is now open source! [Click here](https://www.microsoft.com/en-us/research/blog/codetalk-rethinking-ide-accessibility/) for more information.** <br/>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ttkNYaPwn6E?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+* **My  thoughts on accessibility research have been published in a [microsoft news article](https://news.microsoft.com/en-in/features/international-day-persons-disability-venkatesh-potluri-microsoft-research-india/) on the international day for persons with disabilities.**
 * **My talk at [TEDxYouth@Hyderabad](https://tedxhyderabad.com/tedxyouthhyderabad-2016/) is live!**
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BgMZ6R7RRlI?rel=0" frameborder="0" allowfullscreen></iframe>
