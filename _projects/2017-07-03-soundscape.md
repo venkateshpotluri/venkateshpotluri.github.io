@@ -1,5 +1,5 @@
 ---
-title: "Soundscape for VisualStudio"
+title: "CodeScape"
 excerpt: "Spatial Audio UI to enhance IDE usability for developers with visual impairments."
 collection: "projects"
 permalink: /projects/soundscape/

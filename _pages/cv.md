@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
+
+* Ph.D. Student at the Paul G. Allen School for Computer Science & Engineering. (advised by Prof Jennifer Mankoff and Prof Jon Froehlich) 2018 to present
 * B.Tech (HONS) and MS by Research in Computer Science and Engineering, International Institute of Information Technology Hyderabad. 2010 to 2015
 * Senior Secondary, P. Obul Reddy Public School. 2008 to 2010
 
 Work experience
 ======
-* Research Fellow (advised by Dr. Manohar Swaminathan), Microsoft Research India, July2017 to present.
-  * [SoundScape for VisualStudio](projects/soundscape):
+* Research Fellow (advised by Dr. Manohar Swaminathan), Microsoft Research India, July2017 to July 2018.
+  * [CodeScape](projects/codescape):
     The goal is to explore the design and use of a Spatial Audio UI to improve IDE usability for visually impaired developers.
   * [CloudATM](/projects/cloudatm)
     Financial services are not very accessible to people with visual impairments in India. We propose a new ATM software design to improve accessibility of ATM cash withdrawals for people with visual impairments.
@@ -35,12 +37,14 @@ Work experience
 
 Projects
 ======
-* [Soundscape for Visual Studio](/projects/soundscape)
-  A Spatial Audio UI design to improve developer productivity for visually impaired developers by introducing non-linearity in screen reader information access.
+* Supporting UI and layout design for developers with visual impairments
+An effort to develop an alternative (non-visual) approach to UI and layout design.
 * [CodeTalk](/projects/CodeTalk)
  A Visual Studio plugin to Improve IDE accessibility to developers with visual impairments through improved code glanceability, navigability and real time access to IDE information.
 * [CloudATM](/projects/cloudatm/)
   An ATM infrastructure design proposed to improve accessibility of ATM cash transaction to visually impaired people. The re-design can be built on top of UPI.
+* [CodeScape](/projects/codescape)
+  A Spatial Audio UI design to improve developer productivity for visually impaired developers by introducing non-linearity in screen reader information access
 * [Audio Rendering of Mathematical Content](/projects/math/)
   Techniques using speech and non-speech audio to render mathematical content in audio.
 * Unified keyboard shortcut standard for screen readers
@@ -54,7 +58,7 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reverse %}
+  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
