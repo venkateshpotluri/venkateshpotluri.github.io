@@ -37,17 +37,17 @@ Work experience
 
 Projects
 ======
-* Supporting UI and layout design for developers with visual impairments
+* Supporting UI and layout design for developers with visual impairments:
 An effort to develop an alternative (non-visual) approach to UI and layout design.
-* [CodeTalk](/projects/CodeTalk)
+* [CodeTalk](/projects/CodeTalk):
  A Visual Studio plugin to Improve IDE accessibility to developers with visual impairments through improved code glanceability, navigability and real time access to IDE information.
-* [CloudATM](/projects/cloudatm/)
+ * [CloudATM](/projects/cloudatm/):
   An ATM infrastructure design proposed to improve accessibility of ATM cash transaction to visually impaired people. The re-design can be built on top of UPI.
-* [CodeScape](/projects/codescape)
+  * [CodeScape](/projects/codescape):
   A Spatial Audio UI design to improve developer productivity for visually impaired developers by introducing non-linearity in screen reader information access
-* [Audio Rendering of Mathematical Content](/projects/math/)
+  * [Audio Rendering of Mathematical Content](/projects/math/):
   Techniques using speech and non-speech audio to render mathematical content in audio.
-* Unified keyboard shortcut standard for screen readers
+  * Unified keyboard shortcut standard for screen readers:
   Every screen reader has its own style of keyboard shortcuts, makeing it difficult for visually impaired users to switch between different screen readers and platforms. The idea is to explore and propose guidelines for choosing keyboard shortcuts for screen readers and eventually come up with a universal keyboard shortcut mapping.
 
 Publications
