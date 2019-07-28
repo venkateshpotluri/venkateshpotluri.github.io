@@ -17,9 +17,8 @@ and could be embraced by VIPs in India.'
 
 date: 2019-01-04
 venue: 'Proceedings of the 10th International Conference on Information and Communication Technologies and Development (ICTD 19). Ahmedabad,India.'
-
 paperurl: 'https://dl.acm.org/citation.cfm?id=3287106'
-citation: 'Sudheesh Singanamalla, Venkatesh Potluri, Colin Scott, and Indrani Medhi-Thies. 2019. PocketATM: understanding and improving ATM accessibility in India.  In <em>Proceedings of the Tenth International Conference on Information and Communication Technologies and Development</em> (ICTD '19). ACM, New York, NY, USA,  Article 14, 11 pages. DOI: https://doi.org/10.1145/3287098.3287106'
+citation: 'Sudheesh Singanamalla, Venkatesh Potluri, Colin Scott, and Indrani Medhi-Thies. 2019. PocketATM: understanding and improving ATM accessibility in India.  In Proceedings of the Tenth International Conference on Information and Communication Technologies and Development (ICTD 19). ACM, New York, NY, USA,  Article 14, 11 pages. DOI: https://doi.org/10.1145/3287098.3287106'
 ---
 
 
