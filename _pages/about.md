@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. Student in computer science and engineering at  the [Paul G. Allen School for Computer Science & Engineering](https://www.cs.washington.edu), university of washington. I am advised by [Prof Jennifer Mankoff](https://make4all.org/portfolio/jennifer-mankoff/) and [Prof Jon Froehlich](http://www.cs.umd.edu/~jonf/).
+I am a Ph.D. Student in computer science and engineering at  the [Paul G. Allen School for Computer Science & Engineering](https://www.cs.washington.edu), university of washington. I am advised by [Prof Jennifer Mankoff](https://make4all.org/portfolio/jennifer-mankoff/).
 
 Prior to starting at UW, I was a Research Fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) and am advised by [Dr. Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/). Broadly, my research interests are in the areas of HCI and Accessibility. My current focus is on improving developer productivity for visually impaired developers in GUI based programming environments. I am a B.Tech HONS and MS by Research (dual degree) graduate from [International Institute of Information Technology Hyderabad](https://www.iiit.ac.in) and was advised by [Dr. Kishore S Prahallad](https://sites.google.com/site/kishoreprahallad/) and [Dr. Priyanka Srivastava](https://faculty.iiit.ac.in/~priyanka.srivastava/) on my thesis on [Audio Rendering of Mathematical Content](files/ms_thesis.pdf). There is lots to know about me here. When we meet (in person or over a skype call), lets brainstorm on the next big opportunity to improve accessibility and make the world a more inclusive place.
 

@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D. Student at the Paul G. Allen School for Computer Science & Engineering. (advised by Prof Jennifer Mankoff and Prof Jon Froehlich) 2018 to present
+* Ph.D. Student at the Paul G. Allen School for Computer Science & Engineering. (advised by Prof Jennifer Mankoff) 2018 to present
 * B.Tech (HONS) and MS by Research in Computer Science and Engineering, International Institute of Information Technology Hyderabad. 2010 to 2015
 * Senior Secondary, P. Obul Reddy Public School. 2008 to 2010
 
