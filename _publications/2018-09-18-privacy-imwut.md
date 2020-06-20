@@ -7,5 +7,7 @@ date: 2018-09-18
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 2, Issue 3'
 
 paperurl: 'https://dl.acm.org/citation.cfm?id=3264899'
-citation: 'Ahmed, T., Kapadia, A., Potluri, V., & Swaminathan, M. (2018). Up to a Limit?: Privacy Concerns of Bystanders and Their Willingness to Share Additional Information with Visually Impaired Users of Assistive Technologies. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(3), 89.'
+citation: 'Tousif Ahmed, Apu Kapadia, Venkatesh Potluri, and Manohar Swaminathan. 2018. Up to a Limit? Privacy Concerns of Bystanders and Their Willingness to Share Additional Information with Visually Impaired Users of Assistive Technologies. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 3, Article 89 (September 2018), 27 pages. DOI:https://doi.org/10.1145/3264899'
 ---
+
+[PDF](/files/Ahmed_UpToALimit-PrivacyConcernsOfBystandersAndTheirWillingnessToShareAdditionalInformationWithVisuallyImpairedUsersOfAssistiveTechnologies_IMWUT2018.pdf)
