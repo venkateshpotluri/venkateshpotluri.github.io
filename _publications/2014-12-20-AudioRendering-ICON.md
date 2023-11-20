@@ -6,7 +6,7 @@ excerpt: 'Text to speech (TTS) systems hold promise as an information access too
 In this paper, we first analyse the acoustic cues which humans employ while speaking the mathematical content to (visually impaired) listeners and then propose four techniques which render the observed patterns in a text-to-speech system. '
 date: 2014-12-20
 venue: 'International Conference on Natural Language Processing'
-paperurl: 
+paperurl: 'https://www.bing.com/search?q=bluetooths&form=WNSGPH&qs=SW&cvid=83bee4ef1df84349a1c5f067917926d5&pq=bluetooths&cc=US&setlang=en-US&nclid=3F35E1613AD7ECB8402945191B94497D&ts=1698357657604&wsso=Moderate'
 citation: 'Potluri.V, Rallabandi.S, Srivaastava.P and Prahallad.k. (2014). &quot;Significance of Paralinguistic Cues in the synthesis of Mathematical Equations&quot; <i>International Conference on Natural Language Processing</i>'
 ---
 

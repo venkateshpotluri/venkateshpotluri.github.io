@@ -7,9 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. Student in Computer Science and Engineering at  the [Paul G. Allen School for Computer Science & Engineering](https://www.cs.washington.edu), University of Washington and presently being advised by [Prof Jennifer Mankoff](https://make4all.org/portfolio/jennifer-mankoff/). My research has two foci: (1) to improve accessibility of software engineering to developers who are blind and visually impaired (BVI) through better nonvisual programming experiences, and (2) to invent new interaction techniques for efficient screen reader use. My efforts are focused on enabling BVI developers to build visually appealing layouts. Broadly, my research interests are in the areas of HCI and Accessibility.
+I am a Ph.D. Candidate in Computer Science and Engineering at  the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu), University of Washington, an Apple Scholar, and a Google Lime Scholar. I am advised by [Prof. Jennifer Mankoff](https://make4all.org/portfolio/jennifer-mankoff/). Through my research efforts, I examine accessibility barriers experienced by blind or visually impaired (BVI) developers participating in professional programming domains such as user interface design, data science, and physical computing. My work contributes real-world systems to improve developer tools and new interaction techniques to address these access barriers.
+
+Broadly, my research interests fall into areas of HCI and Accessibility. I however believe that using technology is a human experience, just like living with a disability is, and every person involved in designing technology has a part to play to make the world more accessible -- whether you are designing the next big AI service or are interested in making our computers work faster. Please reach out if you design technology and would like to identify how you can help make the world more accessible.
+## New Interaction Techniques for Nonvisual Programming
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NbkiVG9Mi9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Real-World Systems to Improve Developer Tools
+
+CodeWalk, a set of features that we developed to make collaborative programming activities inclusive to BVI developers has been released as a set of features in VS Code LiveShare. This video segment highlights this feature:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F-1EhngAnpk?si=LTxhraTb3MGiGZcK&amp;start=783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+This microsoft learn article details our audio design.
+
 
 Prior to starting at UW, I was a Research Fellow at [Microsoft Research(MSR) India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) and was advised by [Dr. Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/). At MSR India, my work [improved developer productivity for BVI developers in GUI based programming environments](/projects/codetalk), and [proposed recommendations to improve accessibility of ATM cash transactions for BVI users in India](projects/cloudatm).
 
@@ -20,14 +31,12 @@ There is lots to know about me here. When we meet (in person or over a skype cal
 
 ## Why accessibility?
 
-Due to my vision impairment, I adapted various methods for learning and independent daily living. Given my exposure to a variety of Assistive Technology (AT) since early childhood, I came to believe that technology, when built with the right intent, can empower anybody and impact lives in positive ways. AT has undoubtedly had a great impact on mine. This independence that technology could offer was instrumental for me to pursue undergraduate and graduate degrees in Computer Science with research focused on improving accessibility.
-
-Surmounting several admission rejections from educational institutions due to my disability, I was able to secure admission to a computer science degree at International Institute of Information Technology (IIIT) Hyderabad completely based on merit.
-
-While pursuing my engineering degree at IIIT, I realized that technology and access to STEM content were woefully inadequate to enable aspiring BVI students to achieve their goals in STEM-based careers. Given my technical abilities and experiences with the inadequacies in the current learning ATs, I decided to dedicate my masters study to rendering mathematical content in audio. This was my first interaction with research. On successfully defending my Masters’ thesis in 2015, I interned at Microsoft India Development Center, Hyderabad with a product team responsible for accessibility of Office apps on Android. While exploring the dynamics of product development through this internship, I understood that accessibility should be considered as a first principle, not a bolt-on, and I believed in a career in research would enable me to do that.
-
 Here is my TEDxYouth talk describing my early journey and the wonderful support system I am fortunate to have.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BgMZ6R7RRlI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Due to my blindness, I adapted various methods for learning and independent daily living. Given my exposure to a variety of  Accessibility Technology (AT) since early childhood, I came to believe that technology, when built with the right intent, can empower anybody and impact lives in positive ways. AT has undoubtedly had a great impact on mine. This independence that technology could offer was instrumental for me to pursue undergraduate and graduate degrees in Computer Science with research focused on improving accessibility.
+
+
 
 ## Important Updates
 
