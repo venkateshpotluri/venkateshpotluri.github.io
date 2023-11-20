@@ -19,7 +19,7 @@ CodeWalk, a set of features that we developed to make collaborative programming 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F-1EhngAnpk?si=LTxhraTb3MGiGZcK&amp;start=783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-This microsoft learn article details our audio design.
+This [microsoft learn article](https://learn.microsoft.com/en-us/visualstudio/liveshare/use/enable-accessibility-features-visual-studio-code) details our audio design.
 
 
 Prior to starting at UW, I was a Research Fellow at [Microsoft Research(MSR) India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) and was advised by [Dr. Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/). At MSR India, my work [improved developer productivity for BVI developers in GUI based programming environments](/projects/codetalk), and [proposed recommendations to improve accessibility of ATM cash transactions for BVI users in India](projects/cloudatm).
