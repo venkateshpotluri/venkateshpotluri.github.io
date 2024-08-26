@@ -44,7 +44,7 @@ Due to my blindness, I adapted various methods for learning and independent dail
 
 ## Important Updates
 
-* **I I joined the School of Information, University of Michigan as an Assistant Professor! **
+* **I joined the School of Information, University of Michigan as an Assistant Professor!**
 * **I will be interning for summer 2020 with the ability team at Microsoft Research!** <br/>
 * **I have been awarded the [Google Lime Scholarship](https://www.limeconnect.com/programs/page/google-lime-scholarship) for the year 2019! Extremely greatful for the fellowship, and humbled by learning about all the work that the other scholars were doing. Check out this [Allen School news article.](https://news.cs.washington.edu/2019/03/13/venkatesh-potluri-recognized-with-2019-google-lime-scholarship/)**
 * **[CodeTalk](/projects/codetalk) is now open source! [Click here](https://www.microsoft.com/en-us/research/blog/codetalk-rethinking-ide-accessibility/) for more information.** <br/>  
